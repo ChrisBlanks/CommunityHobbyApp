@@ -1,4 +1,5 @@
 # CommunityHobbyApp
+**Chief Developers:** *Chris B*, *KJ*
 
 **A web app for connecting people who share similar hobbies.**
 
@@ -13,5 +14,5 @@
 - groups will be only accessible for people in a certain area (gps coordinate will be used)
 - This is just a test by kj to make sure I can push code
 - Hello world, it's chris
-__
+___
 

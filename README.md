@@ -11,6 +11,7 @@
 - threshold set on storage for message history
 - username, hobbies, etc. will be collected at account creation
 - groups will be only accessible for people in a certain area (gps coordinate will be used)
--This is just a test by kj to make sure I can push code
+- This is just a test by kj to make sure I can push code
 - Hello world, it's chris
-___
+__
+

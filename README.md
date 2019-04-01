@@ -14,23 +14,24 @@
 - Groups will be only accessible for people in a certain area (gps coordinate will be used)
 
 ## Specifications (4/1 Meeting)
-- *2* Months of inactivity until private groups get deleted
+- **2** Months of inactivity until private groups get deleted
   - Notification sent to user as warning
-- Private groups have a cache that is stored on *their* respective devices
+- Private groups have a cache that is stored on **their** respective devices
   - All history is stored on respective devices
-- Public Groups managed by *Developers*
-- Admin or private groups is *Creator* of the group
+- Public Groups managed by **Developers**
+- Admin or private groups is **Creator** of the group
   - Can be transferred between users
   - Can kick people out of Groups
   - Developers are super users
-- *Personal/User* information stored
+- **Personal/User** information stored
   - Username, Password, Email Address
   - Hobbies Interest
   - Current City
   - Mac Address
   - ?Profile Picture?
-- *Award System*
+- **Award System** implementation
   - Trophies for days active and membership
+  - Trophies for users ad groups
 - _Login Page_
   - Username and Password
   - Account recovery info sent to Email

@@ -1,7 +1,7 @@
 # CommunityHobbyApp
 **Chief Developers:** *Chris B*, *KJ*
 
-**A web app for connecting people who share similar hobbies.**
+**A web application for connecting people who share similar hobbies.**
 
 ## Details/Features
 

@@ -1,4 +1,3 @@
-
 #Meeting Notes
 
 ## Details/Features (3/29 Meeting)
@@ -29,7 +28,7 @@
   - ?Profile Picture?
 - **Award System** implementation
   - Trophies for days active and membership
-  - Trophies for users ad groups
+  - Trophies for users and groups
 - _Login Page_
   - Username and Password
   - Account recovery info sent to Email
@@ -43,3 +42,20 @@
   - Description of group
   - admin username
   - Number of people in group
+
+## Landing Page/Markups (4/3)
+  - **KJ HTML Template Improvements for Landing Page**
+    - Color of Notification Bar #FFED3F
+    - Center brand name in the center of the navigation bar
+    - More Spacing in between options/Bigger Text
+    - Account information on far right after search bar
+  - **Mockup Pages**
+    - Login
+    - Account Recovery/Forget Password
+    - Landing/Main
+    - Private
+    - Public
+    - Recommended/Trending
+    - Chat
+    - Account Info/Admin Options/Group Config
+    - Group Creation

@@ -62,3 +62,27 @@
 
 ## Overview of Pages (4/6)
 ![](Website_Pages_Relationship.jpg)
+  - **Navigation Bar** Left to right
+    - Public Private Discovery (Name with logo) Search_Bar Account_Settings
+  - **Account Settings** Drop Down Options
+    - Account information
+    - Bookmarks
+    - Create Private Group
+    - Request Public Group
+    - Inactive Groups
+    - Logout
+  - **Private/Public group page**
+    - Notifications/Silence Icon 
+    - Event Creation/Calendar
+      - Link to google Calendar
+    - Link to Chat
+    - Terminate membership
+    - Description
+    - Location
+    - Awards
+  - **Account info**
+    - Profile Picture
+    - Interest/hobbies
+    - Location (city)
+    - Change email/password
+    - Admin settings for groups
